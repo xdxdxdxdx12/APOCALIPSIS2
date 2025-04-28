@@ -2333,3 +2333,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_usp'
 [28Apr2025 23:07:30.614] [Server thread/INFO] [FTB Chunks/]: 3cm_6sec loaded 0 chunks at [minecraft:overworld:-4:-5]
 [28Apr2025 23:07:34.376] [Server thread/INFO] [FTB Chunks/]: 3cm_6sec loaded 0 chunks at [minecraft:overworld:-4:-5]
 [28Apr2025 23:08:13.492] [Server thread/INFO] [FTB Chunks/]: 3cm_6sec loaded 0 chunks at [minecraft:overworld:-4:-5]
+[28Apr2025 23:11:57.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
+[28Apr2025 23:15:44.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3cm_6sec lost connection: Disconnected
+[28Apr2025 23:15:44.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec left the game
+[28Apr2025 23:15:44.811] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 3cm_6sec
+[28Apr2025 23:16:57.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3cm_6sec[/127.33.157.175:50781] logged in with entity id 2234 at (-48.7731707991443, 125.0, -66.64416111666696)
+[28Apr2025 23:16:57.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec joined the game
+[28Apr2025 23:16:58.270] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 3cm_6sec (18)
+[28Apr2025 23:16:58.271] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 3cm_6sec
+[28Apr2025 23:17:03.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8df1b7f8-95dd-32e1-a56f-ccb9176001f7
+[28Apr2025 23:17:04.073] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8df1b7f8-95dd-32e1-a56f-ccb9176001f7
+[28Apr2025 23:17:04.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3cm_6sec (8df1b7f8-95dd-32e1-a56f-ccb9176001f7) successfully connected to voice chat
+[28Apr2025 23:17:37.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set the time to 1000]
+[28Apr2025 23:17:50.469] [Server thread/INFO] [FTB Chunks/]: 3cm_6sec claimed 1 chunks around [minecraft:overworld:-4:-5]for team 3cm_6sec#8df1b7f8
+[28Apr2025 23:17:53.120] [Server thread/INFO] [FTB Chunks/]: 3cm_6sec claimed 168 chunks around [minecraft:overworld:-4:-5]for team 3cm_6sec#8df1b7f8
+[28Apr2025 23:17:58.722] [Server thread/INFO] [FTB Chunks/]: 3cm_6sec loaded 25 chunks at [minecraft:overworld:-4:-5]
+[28Apr2025 23:18:39.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3cm_6sec lost connection: Disconnected
+[28Apr2025 23:18:39.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec left the game
+[28Apr2025 23:18:39.966] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 3cm_6sec

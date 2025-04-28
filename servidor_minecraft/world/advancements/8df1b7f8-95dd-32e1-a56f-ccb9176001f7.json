@@ -23,5 +23,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-28 23:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-04-28 23:18:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
