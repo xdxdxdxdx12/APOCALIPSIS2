@@ -1,0 +1,27 @@
+{
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-04-28 02:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-28 02:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-28 02:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_taiga": "2025-04-28 02:34:57 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
