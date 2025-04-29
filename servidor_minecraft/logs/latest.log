@@ -2419,3 +2419,50 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [29Apr2025 01:00:17.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set 777JXO's game mode to Survival Mode]
 [29Apr2025 01:00:32.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [29Apr2025 01:00:32.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unop 777JXO<--[HERE]
+[29Apr2025 01:06:21.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO has made the advancement [Sweet Dreams]
+[29Apr2025 01:07:03.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
+[29Apr2025 01:07:12.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by 3cm_6sec
+[29Apr2025 01:07:18.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by 3cm_6sec
+[29Apr2025 01:07:21.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
+[29Apr2025 01:08:34.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 1 [Vector] to 3cm_6sec]
+[29Apr2025 01:09:13.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
+[29Apr2025 01:09:15.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec was slain by 777JXO
+[29Apr2025 01:09:19.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3cm_6sec was kicked for floating too long!
+[29Apr2025 01:09:19.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3cm_6sec lost connection: Flying is not enabled on this server
+[29Apr2025 01:09:19.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec left the game
+[29Apr2025 01:09:19.322] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 3cm_6sec
+[29Apr2025 01:09:30.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3cm_6sec[/127.33.157.175:34535] logged in with entity id 7085 at (-59.09937180251393, 133.02612726902174, -71.05169193068389)
+[29Apr2025 01:09:30.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec joined the game
+[29Apr2025 01:09:30.401] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 3cm_6sec (18)
+[29Apr2025 01:09:30.402] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 3cm_6sec
+[29Apr2025 01:09:37.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8df1b7f8-95dd-32e1-a56f-ccb9176001f7
+[29Apr2025 01:09:38.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8df1b7f8-95dd-32e1-a56f-ccb9176001f7
+[29Apr2025 01:09:38.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3cm_6sec (8df1b7f8-95dd-32e1-a56f-ccb9176001f7) successfully connected to voice chat
+[29Apr2025 01:09:44.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec was not rescued in time
+[29Apr2025 01:10:21.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by 3cm_6sec
+[29Apr2025 01:10:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
+[29Apr2025 01:10:28.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
+[29Apr2025 01:10:42.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO died
+[29Apr2025 01:10:57.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO died
+[29Apr2025 01:11:02.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
+[29Apr2025 01:11:11.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
+[29Apr2025 01:11:24.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
+[29Apr2025 01:11:28.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by 3cm_6sec
+[29Apr2025 01:11:44.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
+[29Apr2025 01:11:50.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
+[29Apr2025 01:11:53.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
+[29Apr2025 01:12:01.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [777JXO: Set own game mode to Creative Mode]
+[29Apr2025 01:12:07.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-64, y=125, z=-75} BlockPos{x=-67, y=96, z=-77}
+[29Apr2025 01:12:08.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-64, y=125, z=-75} BlockPos{x=-67, y=95, z=-77}
+[29Apr2025 01:12:10.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO lost connection: Timed out
+[29Apr2025 01:12:10.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO left the game
+[29Apr2025 01:12:10.271] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 777JXO
+[29Apr2025 01:12:13.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
+[29Apr2025 01:12:22.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
+[29Apr2025 01:12:23.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 777JXO[/127.123.83.143:47471] logged in with entity id 7589 at (-67.068295137986, 96.0, -76.88158700306116)
+[29Apr2025 01:12:23.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO joined the game
+[29Apr2025 01:12:23.611] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 777JXO (18)
+[29Apr2025 01:12:23.612] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 777JXO
+[29Apr2025 01:12:37.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO lost connection: Disconnected
+[29Apr2025 01:12:37.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO left the game
+[29Apr2025 01:12:37.072] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 777JXO
