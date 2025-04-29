@@ -2383,3 +2383,39 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [29Apr2025 00:52:31.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO lost connection: Disconnected
 [29Apr2025 00:52:31.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO left the game
 [29Apr2025 00:52:31.990] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 777JXO
+[29Apr2025 00:56:10.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Spectator Mode]
+[29Apr2025 00:56:45.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
+[29Apr2025 00:57:01.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 777JXO[/127.123.83.143:60775] logged in with entity id 5689 at (-58.25324342887499, 133.0, -75.22388727355398)
+[29Apr2025 00:57:01.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO joined the game
+[29Apr2025 00:57:02.194] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 777JXO (18)
+[29Apr2025 00:57:02.196] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 777JXO
+[29Apr2025 00:57:04.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
+[29Apr2025 00:57:05.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
+[29Apr2025 00:57:05.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 777JXO (a250bb28-4d7d-3a8d-beb1-f9f37837ac0b) successfully connected to voice chat
+[29Apr2025 00:57:10.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
+[29Apr2025 00:57:27.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [777JXO: Set own game mode to Creative Mode]
+[29Apr2025 00:57:30.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO lost connection: Disconnected
+[29Apr2025 00:57:30.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO left the game
+[29Apr2025 00:57:30.773] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 777JXO
+[29Apr2025 00:58:34.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 777JXO[/127.123.83.143:33897] logged in with entity id 5927 at (-56.32580861595682, 132.0, -73.06726974762503)
+[29Apr2025 00:58:34.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO joined the game
+[29Apr2025 00:58:35.485] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 777JXO (18)
+[29Apr2025 00:58:35.485] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 777JXO
+[29Apr2025 00:58:38.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
+[29Apr2025 00:58:39.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
+[29Apr2025 00:58:39.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 777JXO (a250bb28-4d7d-3a8d-beb1-f9f37837ac0b) successfully connected to voice chat
+[29Apr2025 00:58:45.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO lost connection: Disconnected
+[29Apr2025 00:58:45.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO left the game
+[29Apr2025 00:58:45.422] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 777JXO
+[29Apr2025 00:59:23.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 21 [Bread] to 3cm_6sec]
+[29Apr2025 01:00:05.421] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c79bfd5[id=<null>,name=777JXO,properties={},legacy=false] (/127.123.83.143:52285) lost connection: Disconnected
+[29Apr2025 01:00:09.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 777JXO[/127.123.83.143:36015] logged in with entity id 6219 at (-59.088032495597936, 133.0, -74.71077090185979)
+[29Apr2025 01:00:09.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO joined the game
+[29Apr2025 01:00:09.762] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 777JXO (18)
+[29Apr2025 01:00:09.762] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 777JXO
+[29Apr2025 01:00:11.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
+[29Apr2025 01:00:12.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
+[29Apr2025 01:00:12.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 777JXO (a250bb28-4d7d-3a8d-beb1-f9f37837ac0b) successfully connected to voice chat
+[29Apr2025 01:00:17.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set 777JXO's game mode to Survival Mode]
+[29Apr2025 01:00:32.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Apr2025 01:00:32.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unop 777JXO<--[HERE]
