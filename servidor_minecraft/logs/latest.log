@@ -2423,3 +2423,31 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01May2025 23:16:44.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
 [01May2025 23:17:04.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 12 [Block of Raw Iron] to 3cm_6sec]
 [01May2025 23:17:13.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 1 [Block of Iron] to 3cm_6sec]
+[01May2025 23:17:34.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Martin lost connection: Disconnected
+[01May2025 23:17:34.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin left the game
+[01May2025 23:17:34.857] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Martin
+[01May2025 23:18:14.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec has made the advancement [Isn't It Iron Pick]
+[01May2025 23:18:23.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Martin[/127.28.158.19:43125] logged in with entity id 4477 at (-42.769252273650224, 96.0, -89.36107060699845)
+[01May2025 23:18:23.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin joined the game
+[01May2025 23:18:25.333] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Martin (18)
+[01May2025 23:18:25.334] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Martin
+[01May2025 23:18:33.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9d15c4fa-447a-3b79-8e19-04de8e88b931
+[01May2025 23:18:34.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9d15c4fa-447a-3b79-8e19-04de8e88b931
+[01May2025 23:18:34.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Martin (9d15c4fa-447a-3b79-8e19-04de8e88b931) successfully connected to voice chat
+[01May2025 23:20:40.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 12 [Oak Log] to 3cm_6sec]
+[01May2025 23:20:59.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO has made the advancement [Isn't It Iron Pick]
+[01May2025 23:25:41.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO died because of Zombie
+[01May2025 23:25:45.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO was kicked for floating too long!
+[01May2025 23:25:45.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO lost connection: Disconnected
+[01May2025 23:25:45.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO left the game
+[01May2025 23:25:45.561] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 777JXO
+[01May2025 23:25:45.607] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01May2025 23:25:52.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 777JXO[/127.123.83.143:42961] logged in with entity id 5486 at (-39.769039091417895, 96.24918707874468, -66.33262895537365)
+[01May2025 23:25:52.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO joined the game
+[01May2025 23:25:52.450] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 777JXO (18)
+[01May2025 23:25:52.450] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 777JXO
+[01May2025 23:25:54.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
+[01May2025 23:25:55.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
+[01May2025 23:25:55.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 777JXO (a250bb28-4d7d-3a8d-beb1-f9f37837ac0b) successfully connected to voice chat
+[01May2025 23:26:02.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
+[01May2025 23:27:26.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin has made the advancement [Isn't It Iron Pick]
