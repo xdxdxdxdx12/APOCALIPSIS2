@@ -1,1 +1,4572 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1745894959812 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745894962975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745894966275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745894969418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745894972524 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745894975676 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745894978824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745894981984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745894985069 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745894988154 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745894991458 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745894994612 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745894997731 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895000945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895004053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895007295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895010501 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895013695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895016762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895019895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895023134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895026350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895029432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895033027 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895036205 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895039280 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895042467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895045563 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895048656 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895051748 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895054853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895058040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895061145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895064279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895067424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895071798 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895074911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895077984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895081087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895084189 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895087381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895090460 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895093533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895096615 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895099767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895102887 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895107569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895110679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895113853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895116963 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895120099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895123278 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895126389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895129655 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895134016 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895137159 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895140350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895144058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895147149 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895150357 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895153503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895156667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895159759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895162990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895166110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895169192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895172363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895177041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895180122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895183206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895186337 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895189625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895192788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895195941 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895199251 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895202411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895205523 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895208588 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895213215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895216306 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895219982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895223224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895226463 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895229558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895232857 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895236007 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895239115 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895242313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895245504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895248590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895251837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895255086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895258217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895261528 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895264654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895267765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895270913 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895274234 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895277341 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895280639 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895284540 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895287734 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895290817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895293995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895297061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895300135 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895303250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895306337 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895309469 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895312727 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895315902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895318980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895322845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895325933 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895329040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895332111 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895335228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895338438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895341871 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895346410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895351070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895354278 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895358826 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895362111 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895365191 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895368328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895371402 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895374502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895377912 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895381251 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895384987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895388217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895392424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895395578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895398663 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895401875 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895405003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895408118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895411200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895414515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895417628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895420806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895423874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895427007 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895430878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895433963 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895437076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895440430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895443511 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895446591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895449717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895453242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895456477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895459577 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895462805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895466060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895469280 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895472348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895475599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895478702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895481812 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895485008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895488259 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895491389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895494516 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895497589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895500676 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895503777 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895506858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895510288 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895513512 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895516595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895519698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895523833 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895526912 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895530006 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895533104 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895536530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895539628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895542847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895546246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895549369 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895552463 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895555584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895558759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895561864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895564970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895568106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895571359 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895574523 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895577634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895580847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895585389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895588662 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895591738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895594814 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895598087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895601354 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895605535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895608638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895611715 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895614987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895618133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895621300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895624540 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895627692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895632060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895635162 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895638966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895643493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895646621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895650073 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895653169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895656297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895659587 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895662666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895665748 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895668912 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895672194 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895675415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895678618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895681700 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895684868 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895687961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895691373 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895694484 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895697881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895701014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895704076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895707382 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895710475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895713700 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895716971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895720193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895723290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895727119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895730333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895733500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895736679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895739763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895743560 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895746674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895749793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895754522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895757804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895760882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895764041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895767282 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895770427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895773579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895776672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895779973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895783275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895786420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895789830 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895793140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895796253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895799480 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895802552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895805772 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895808973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895812071 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895815156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895818308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895821452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895824557 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895827726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895830902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895834087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895837159 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895840245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895843341 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895846629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895849732 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895852831 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895855956 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895859235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895862323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895865600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895868926 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895872079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895875273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895878345 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895881931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895885020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895888328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895891734 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895894898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895898030 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895901139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895904239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895907309 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895910409 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895913748 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895916935 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895920015 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895923097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895926199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895929511 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895932589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895935669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895938743 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895941926 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895945113 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895948346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895951432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895954729 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895957965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895961093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895964172 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895967271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895970358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895973529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895976739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895980008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895983096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895986257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895989557 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895992710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895995785 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745895998936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896002335 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896005423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896008513 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896011756 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896014887 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896017989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896021323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896024439 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896027523 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896030602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896033690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896036893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896040118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896043410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896046495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896049735 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896052925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896056152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896059231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896062404 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896065538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896068631 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896071716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896076239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896079322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896082574 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896085777 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896088865 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896091937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896095033 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896098110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896101205 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896104285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896107399 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896110474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896113556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896116649 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896120733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896124034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896127375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896130482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896133575 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896136669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896139774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896142865 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896146163 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896150128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896154539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896157762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896161115 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896164783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896167991 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896171067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896175400 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896178527 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896181696 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896184900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896187976 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896191140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896194224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896197390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896201385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896204528 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896207763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896211019 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896214195 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896217471 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896220776 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896223971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896227135 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896230215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896233317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896236601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896239675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896242880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896246019 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896249109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896252190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896255275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896258360 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896261478 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896264633 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896267807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896271053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896274139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896277259 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896281396 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896284618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896287928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896291341 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896294505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896297780 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896301600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896304686 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896307759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896310888 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896313960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896317106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896320309 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896323426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896326685 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896329755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896332887 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896336154 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896339264 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896342485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896345559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896348695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896351786 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896355003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896358085 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896361155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896364420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896367614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896371346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896374629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896377848 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896381229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896384356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896387450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896390891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896394245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896397378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896400445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896403524 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896406601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896409827 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896413029 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896416508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896420075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896423403 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896427783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896430855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896434030 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896437178 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896440338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896443452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896446521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896449597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896452691 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896455878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896459073 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896462157 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896465351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896468547 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896471702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896474775 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896478133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896481203 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896484396 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896487560 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896490675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896493919 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896497001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896500089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896503176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896506472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896509550 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896512968 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896516244 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896519657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896522740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896525806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896528879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896532118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896535199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896538320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896541511 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896544713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896547805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896550902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896554071 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896557156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896560228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896563485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896566579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896569753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896572973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896576040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896579248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896582340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896585427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896588542 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896591659 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896594756 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896597829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896601016 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896604240 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896607383 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896610515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896613595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896616866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896621504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896624669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896627858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896630962 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896634167 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896637297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896640363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896643543 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896647049 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896650240 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896653731 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896656948 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896660030 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896663117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896666228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896669437 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896672813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896675958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896679063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896683242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896686330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896689421 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896692722 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896695837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896698914 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896702230 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896705307 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896708540 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896711658 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896714727 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896717800 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896720881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896723952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896727054 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896730122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896733214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896736299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896739456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896742613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896745795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896748869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896753254 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896756552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896759783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896762972 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896766050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896769118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896772185 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896775286 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896778628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896781733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896784811 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896787891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896790965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896794222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896797308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896800510 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896803600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896806696 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896809787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896813558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896816640 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896819947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896823027 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896826617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896829808 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896833636 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896836844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896840034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896843215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896846546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896849659 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896852755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896855850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896859031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896862137 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896865231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896869111 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896873207 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896876290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896879395 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896883558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896886688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896889898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896893235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896896328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896900382 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896903475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896906553 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896909645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896913003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896916241 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896919312 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896922893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896926073 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896929229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896932645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896935843 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896938914 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896942522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896945614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896948690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896952461 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896955667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896958772 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896961889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896964961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896968061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896971273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896974345 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896977531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896980652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896983740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896986891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896990009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896993310 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896996444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745896999633 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897002744 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897005856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897009210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897012526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897015991 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897019067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897022152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897025294 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897028647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897031716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897035147 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897038233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897041428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897044686 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897047785 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897050936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897054076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897057176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897060265 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897063390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897066589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897070789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897073883 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897077014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897080262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897083625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897086897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897090128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897093212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897096395 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897099515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897102803 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897105902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897110094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897113397 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897116492 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897119586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897122712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897125806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897128916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897132122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897135215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897138438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897141510 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897144912 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897148008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897151169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897154276 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897157641 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897160867 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897163964 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897167275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897170369 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897173451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897176775 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897179862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897183059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897186139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897189223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897192330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897195531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897198687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897201778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897204911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897207997 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897211207 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897214356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897217501 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897220571 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897224866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897227962 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897231056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897234130 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897237200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897240300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897243385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897246481 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897249689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897252763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897255825 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897258913 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897262008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897265097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897268201 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897271464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897274555 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897277662 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897280757 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897283966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897287173 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897290309 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897293510 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897296596 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897299722 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897302791 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897305862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897308969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897312158 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897315373 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897318484 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897321616 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897324741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897327905 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897331026 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897334118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897337401 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897340505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897343597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897346784 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897349870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897352961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897356059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897359330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897362441 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897365526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897368614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897371853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897374935 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897378302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897382188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897385273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897388343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897391554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897394638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897397887 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897400998 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897404150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897407408 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897410501 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897413585 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745897416673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+add-bizarre.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+restaurants-indicates.gl.at.ply.gg:4343 => 127.0.0.1:24454 (proto: Udp, port count: 1)

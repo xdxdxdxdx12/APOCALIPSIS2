@@ -1,19 +1,19 @@
-[29Apr2025 00:42:35.129] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[29Apr2025 00:42:35.136] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[29Apr2025 00:42:35.685] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[29Apr2025 00:42:35.736] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/APOCALIPSIS2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[29Apr2025 00:42:36.044] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/APOCALIPSIS2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[29Apr2025 00:42:36.045] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/APOCALIPSIS2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Apr2025 00:42:36.047] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/APOCALIPSIS2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Apr2025 00:42:36.048] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/APOCALIPSIS2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Apr2025 00:42:36.212] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[29Apr2025 00:42:38.536] [main/ERROR] [mixin/]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
-[29Apr2025 00:42:38.549] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[29Apr2025 00:42:38.743] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[29Apr2025 00:42:38.870] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Apr2025 00:42:38.940] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Apr2025 00:42:38.942] [main/WARN] [mixin/]: Reference map 'peacefulrecipes.refmap.json' for peacefulrecipes.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Apr2025 00:42:38.981] [main/INFO] [Puzzles Lib/]: Loading 47 mods:
+[01May2025 22:57:05.749] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[01May2025 22:57:05.756] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[01May2025 22:57:06.902] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[01May2025 22:57:06.964] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/APOCALIPSIS2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[01May2025 22:57:07.363] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/APOCALIPSIS2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[01May2025 22:57:07.365] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/APOCALIPSIS2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01May2025 22:57:07.367] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/APOCALIPSIS2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01May2025 22:57:07.368] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/APOCALIPSIS2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01May2025 22:57:07.597] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[01May2025 22:57:10.187] [main/ERROR] [mixin/]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
+[01May2025 22:57:10.196] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[01May2025 22:57:10.354] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[01May2025 22:57:10.486] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01May2025 22:57:10.526] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[01May2025 22:57:10.528] [main/WARN] [mixin/]: Reference map 'peacefulrecipes.refmap.json' for peacefulrecipes.mixins.json could not be read. If this is a development environment you can ignore this message
+[01May2025 22:57:10.564] [main/INFO] [Puzzles Lib/]: Loading 47 mods:
 	- apocalypsenow 2.1.2
 	- architectury 9.2.14
 	- badmobs 19.0.2
@@ -61,80 +61,82 @@
 	- worldedit 7.2.15+6463-5ca4dff
 	- zombie_extreme 0.2.6.4
 	- zombieawareness 1.20.1-1.13.1
-[29Apr2025 00:42:39.006] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.ArrayLightDataCache)
-[29Apr2025 00:42:39.009] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline)
-[29Apr2025 00:42:39.012] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.LightDataAccess)
-[29Apr2025 00:42:40.153] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[29Apr2025 00:42:46.509] [modloading-worker-0/INFO] [dynamiclightsreforged/]: [LambDynLights] Initializing Dynamic Lights Reforged...
-[29Apr2025 00:42:46.614] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[29Apr2025 00:42:46.652] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[29Apr2025 00:42:46.743] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[29Apr2025 00:42:46.892] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[29Apr2025 00:42:46.892] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[29Apr2025 00:42:47.262] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
-[29Apr2025 00:42:48.114] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
-[29Apr2025 00:42:48.626] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[29Apr2025 00:42:48.657] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[29Apr2025 00:42:48.671] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
-[29Apr2025 00:42:48.678] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
-[29Apr2025 00:42:48.680] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
-[29Apr2025 00:42:48.687] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
-[29Apr2025 00:42:48.689] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
-[29Apr2025 00:42:48.697] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[29Apr2025 00:42:48.709] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_map_data
-[29Apr2025 00:42:48.710] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:share_waypoint
-[29Apr2025 00:42:48.719] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_chunk_change
-[29Apr2025 00:42:48.724] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:teleport_from_map
-[29Apr2025 00:42:48.727] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:sync_tx
-[29Apr2025 00:42:48.741] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
-[29Apr2025 00:42:48.742] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:server_config_request
-[29Apr2025 00:42:48.743] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[29Apr2025 00:42:49.929] [main/INFO] [Moonlight/]: Initialized block sets in 17ms
-[29Apr2025 00:42:50.834] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[29Apr2025 00:42:50.870] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
-[29Apr2025 00:42:50.871] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
-[29Apr2025 00:42:50.906] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[29Apr2025 00:42:50.936] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[29Apr2025 00:42:51.054] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
-[29Apr2025 00:42:51.055] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[29Apr2025 00:42:51.084] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[29Apr2025 00:42:51.085] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[29Apr2025 00:42:51.085] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[29Apr2025 00:42:51.133] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
-[29Apr2025 00:42:51.250] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[29Apr2025 00:42:51.250] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[29Apr2025 00:42:51.380] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[29Apr2025 00:42:51.381] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [badmobs] Starting version check at https://updates.blamejared.com/get?n=badmobs&gv=1.20.1
-[29Apr2025 00:42:51.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [badmobs] Found status: BETA_OUTDATED Current: 19.0.2 Target: 19.0.4
-[29Apr2025 00:42:51.754] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[29Apr2025 00:42:52.187] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5d23c197]
-[29Apr2025 00:42:52.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: OUTDATED Current: 5.1.4.299 Target: 5.1.4.346
-[29Apr2025 00:42:52.203] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
-[29Apr2025 00:42:52.208] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
-[29Apr2025 00:42:52.263] [main/INFO] [journeymap/]: Initializing Packet Registries
-[29Apr2025 00:42:52.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 14.0.38 Target: 14.0.57
-[29Apr2025 00:42:52.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[29Apr2025 00:42:52.323] [main/INFO] [Moonlight/]: Initialized color sets in 30ms
-[29Apr2025 00:42:52.341] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[29Apr2025 00:42:52.341] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Apr2025 00:42:52.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[29Apr2025 00:42:52.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[29Apr2025 00:42:52.496] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: OUTDATED Current: 2.0.1.122 Target: 2.0.1.124
-[29Apr2025 00:42:52.497] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[29Apr2025 00:42:53.005] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.30 Target: null
-[29Apr2025 00:42:53.005] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[29Apr2025 00:42:53.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.11.20 Target: null
-[29Apr2025 00:42:53.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[29Apr2025 00:42:53.125] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[29Apr2025 00:42:53.126] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[29Apr2025 00:42:53.140] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
-[29Apr2025 00:42:53.140] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[29Apr2025 00:42:53.724] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.6.27 Target: 0.7.12
-[29Apr2025 00:42:53.909] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[29Apr2025 00:42:54.935] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/APOCALIPSIS2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
-[29Apr2025 00:42:54.935] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/APOCALIPSIS2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
-[29Apr2025 00:42:56.690] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[29Apr2025 00:42:57.594] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ewm
+[01May2025 22:57:10.596] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[01May2025 22:57:10.601] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[01May2025 22:57:10.604] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.LightDataAccess)
+[01May2025 22:57:11.885] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01May2025 22:57:19.919] [modloading-worker-0/INFO] [dynamiclightsreforged/]: [LambDynLights] Initializing Dynamic Lights Reforged...
+[01May2025 22:57:20.017] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[01May2025 22:57:20.112] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[01May2025 22:57:20.180] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[01May2025 22:57:20.326] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[01May2025 22:57:20.327] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[01May2025 22:57:20.660] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[01May2025 22:57:21.583] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
+[01May2025 22:57:22.310] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[01May2025 22:57:22.327] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[01May2025 22:57:22.408] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[01May2025 22:57:22.422] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[01May2025 22:57:22.424] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[01May2025 22:57:22.430] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[01May2025 22:57:22.437] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[01May2025 22:57:22.442] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[01May2025 22:57:22.444] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_map_data
+[01May2025 22:57:22.467] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:share_waypoint
+[01May2025 22:57:22.481] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_chunk_change
+[01May2025 22:57:22.488] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:teleport_from_map
+[01May2025 22:57:22.495] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:sync_tx
+[01May2025 22:57:22.501] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
+[01May2025 22:57:22.514] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:server_config_request
+[01May2025 22:57:22.521] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[01May2025 22:57:23.630] [main/INFO] [Moonlight/]: Initialized block sets in 14ms
+[01May2025 22:57:24.569] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[01May2025 22:57:24.571] [Thread-3/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[01May2025 22:57:24.572] [Thread-3/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[01May2025 22:57:24.608] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
+[01May2025 22:57:24.610] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
+[01May2025 22:57:24.632] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[01May2025 22:57:24.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[01May2025 22:57:24.809] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[01May2025 22:57:24.841] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[01May2025 22:57:24.840] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[01May2025 22:57:24.842] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[01May2025 22:57:24.842] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[01May2025 22:57:24.953] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[01May2025 22:57:25.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[01May2025 22:57:25.125] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[01May2025 22:57:25.276] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.10.3 Target: null
+[01May2025 22:57:25.277] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [badmobs] Starting version check at https://updates.blamejared.com/get?n=badmobs&gv=1.20.1
+[01May2025 22:57:25.655] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [badmobs] Found status: BETA_OUTDATED Current: 19.0.2 Target: 19.0.4
+[01May2025 22:57:25.655] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[01May2025 22:57:25.826] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7f2f84ab]
+[01May2025 22:57:25.837] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[01May2025 22:57:25.879] [main/INFO] [journeymap/]: Initializing Packet Registries
+[01May2025 22:57:25.934] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: OUTDATED Current: 5.1.4.299 Target: 5.1.4.346
+[01May2025 22:57:25.936] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
+[01May2025 22:57:25.946] [main/INFO] [Moonlight/]: Initialized color sets in 31ms
+[01May2025 22:57:26.042] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 14.0.38 Target: 14.0.57
+[01May2025 22:57:26.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[01May2025 22:57:26.056] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[01May2025 22:57:26.057] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01May2025 22:57:26.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[01May2025 22:57:26.257] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[01May2025 22:57:26.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: OUTDATED Current: 2.0.1.122 Target: 2.0.1.124
+[01May2025 22:57:26.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[01May2025 22:57:26.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.30 Target: null
+[01May2025 22:57:26.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[01May2025 22:57:26.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.11.20 Target: null
+[01May2025 22:57:26.807] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[01May2025 22:57:26.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[01May2025 22:57:26.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[01May2025 22:57:26.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[01May2025 22:57:26.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[01May2025 22:57:27.946] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.6.27 Target: 0.7.12
+[01May2025 22:57:28.303] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01May2025 22:57:29.604] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/APOCALIPSIS2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
+[01May2025 22:57:29.605] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/APOCALIPSIS2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
+[01May2025 22:57:32.074] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[01May2025 22:57:33.173] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ewm
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:ewm'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -167,7 +169,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:ewm'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.596] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ro_635remake
+[01May2025 22:57:33.176] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ro_635remake
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:ro635_remake'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -200,7 +202,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:ro635_remake'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.614] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:skora
+[01May2025 22:57:33.190] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:skora
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_kora919'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -233,7 +235,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_kora919'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.616] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:modern
+[01May2025 22:57:33.193] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:modern
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:modernized_marlin_model1887'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -266,7 +268,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:modernized_marlin_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.622] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:dual
+[01May2025 22:57:33.200] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:dual
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:dual_glock19x'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -299,7 +301,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:dual_glock19x'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.626] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:m_49mm
+[01May2025 22:57:33.204] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:m_49mm
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:m4_9mm'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -332,7 +334,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:m4_9mm'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.629] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:aksu
+[01May2025 22:57:33.208] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:aksu
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_aksu'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -365,7 +367,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_aksu'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.631] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammoforrpk
+[01May2025 22:57:33.211] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammoforrpk
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:5x45x39mm_ammo'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -398,7 +400,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:5x45x39mm_ammo'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.634] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:daragonovelitex
+[01May2025 22:57:33.214] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:daragonovelitex
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:svd_dragnaov'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -431,7 +433,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:svd_dragnaov'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.635] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:m_4rifle
+[01May2025 22:57:33.216] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:m_4rifle
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:m4_rifle'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -464,7 +466,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:m4_rifle'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.636] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:m_16x_4
+[01May2025 22:57:33.218] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:m_16x_4
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:m16x4'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -497,7 +499,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:m16x4'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.639] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:vss
+[01May2025 22:57:33.221] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:vss
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_vss'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -530,7 +532,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_vss'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.640] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:e_545scoped
+[01May2025 22:57:33.223] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:e_545scoped
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:svch545_scoped'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -563,7 +565,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:svch545_scoped'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.643] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:svch_545
+[01May2025 22:57:33.227] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:svch_545
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:svch545'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -596,7 +598,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:svch545'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.645] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:arammo_5
+[01May2025 22:57:33.230] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:arammo_5
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:7x62x51mm_ammo'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -629,7 +631,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:7x62x51mm_ammo'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.646] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:gk_57
+[01May2025 22:57:33.233] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:gk_57
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:gk57'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -662,7 +664,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:gk57'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.649] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:akm
+[01May2025 22:57:33.237] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:akm
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_akm'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -695,7 +697,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_akm'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.650] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:svd
+[01May2025 22:57:33.241] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:svd
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_svd'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -728,7 +730,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_svd'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.652] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:sd
+[01May2025 22:57:33.243] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:sd
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:mp5_classic_sd'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -761,7 +763,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:mp5_classic_sd'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.654] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:mp_5classic
+[01May2025 22:57:33.245] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:mp_5classic
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:mp5_classic'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -794,7 +796,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:mp5_classic'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.658] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:scar_18
+[01May2025 22:57:33.253] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:scar_18
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:scar18'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -827,7 +829,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:scar18'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.663] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:deserteagleelite
+[01May2025 22:57:33.257] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:deserteagleelite
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:deagle36'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -860,7 +862,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:deagle36'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.672] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:mosinnagant
+[01May2025 22:57:33.265] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:mosinnagant
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:mosin_nagant360'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -893,7 +895,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:mosin_nagant360'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.675] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:lr_300
+[01May2025 22:57:33.268] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:lr_300
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_lr300'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -926,7 +928,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_lr300'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.904] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ben
+[01May2025 22:57:33.271] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ben
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:benxlli_m4'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -959,7 +961,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:benxlli_m4'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.907] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ak_47x
+[01May2025 22:57:33.429] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ak_47x
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:ak47x'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -992,7 +994,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:ak47x'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.908] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:sgi
+[01May2025 22:57:33.433] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:sgi
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_sgi'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1025,7 +1027,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_sgi'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.910] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammosmg_2
+[01May2025 22:57:33.436] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammosmg_2
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:45acp_ammo'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1058,7 +1060,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:45acp_ammo'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.915] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammosmg_1
+[01May2025 22:57:33.442] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammosmg_1
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:9mm_ammo'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1091,7 +1093,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:9mm_ammo'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.917] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammohandgun_2
+[01May2025 22:57:33.454] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammohandgun_2
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:50cal_sw_ammo'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1124,7 +1126,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:50cal_sw_ammo'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.918] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammohandgun_1
+[01May2025 22:57:33.456] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammohandgun_1
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:50ae_ammo'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1157,7 +1159,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:50ae_ammo'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.919] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:groza
+[01May2025 22:57:33.457] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:groza
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_groza'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1190,7 +1192,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_groza'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.921] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:rpk_16x
+[01May2025 22:57:33.458] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:rpk_16x
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:rpk16x'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1223,7 +1225,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:rpk16x'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.923] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:spm
+[01May2025 22:57:33.460] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:spm
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_pm'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1256,7 +1258,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_pm'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.925] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:spb
+[01May2025 22:57:33.462] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:spb
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_pb'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1289,7 +1291,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_pb'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.927] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:il_86
+[01May2025 22:57:33.465] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:il_86
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_il86'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1322,7 +1324,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_il86'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.930] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:lne_19
+[01May2025 22:57:33.474] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:lne_19
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:lne19'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1355,7 +1357,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:lne19'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.933] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:model_500
+[01May2025 22:57:33.478] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:model_500
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:model500'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1388,7 +1390,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:model500'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.941] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ak_22
+[01May2025 22:57:33.491] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ak_22
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:ak22'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1421,7 +1423,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:ak22'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.943] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:elitexmagnum
+[01May2025 22:57:33.493] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:elitexmagnum
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:magnum500'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1454,7 +1456,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:magnum500'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.950] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:shotgun_1
+[01May2025 22:57:33.499] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:shotgun_1
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_obrez'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1487,7 +1489,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_obrez'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.956] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:shotgun_2
+[01May2025 22:57:33.500] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:shotgun_2
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_win1300'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1520,7 +1522,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_win1300'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.957] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:asval
+[01May2025 22:57:33.502] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:asval
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_as_val'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1553,7 +1555,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_as_val'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:57.959] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:speciallime
+[01May2025 22:57:33.505] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:speciallime
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:ak47x'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1591,7 +1593,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:ak47x'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.125] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammoar_1
+[01May2025 22:57:33.647] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammoar_1
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:7x62mm_ammo'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1624,7 +1626,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:7x62mm_ammo'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.126] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammoar_6
+[01May2025 22:57:33.649] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammoar_6
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:9x39_ammo'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1657,7 +1659,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:9x39_ammo'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.128] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammoar_3
+[01May2025 22:57:33.650] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammoar_3
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:6x02x41mm_ammo'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1690,7 +1692,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:6x02x41mm_ammo'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.132] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:sfora
+[01May2025 22:57:33.653] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:sfora
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_fora'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1723,7 +1725,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_fora'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.135] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:pkm
+[01May2025 22:57:33.657] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:pkm
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_pkm'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1756,7 +1758,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_pkm'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.139] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:axval
+[01May2025 22:57:33.659] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:axval
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:axval'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1789,7 +1791,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:axval'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.141] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammoae_4
+[01May2025 22:57:33.663] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammoae_4
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:5x556x45mm_nato_ammo'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1822,7 +1824,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:5x556x45mm_nato_am
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.144] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:abakan
+[01May2025 22:57:33.667] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:abakan
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_abakan'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1855,7 +1857,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_abakan'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.147] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:glock_19x
+[01May2025 22:57:33.671] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:glock_19x
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:glock19x'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1888,7 +1890,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:glock19x'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.149] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:usp_45
+[01May2025 22:57:33.676] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:usp_45
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:hkusp45'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1921,7 +1923,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:hkusp45'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.151] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:protecta
+[01May2025 22:57:33.679] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:protecta
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_protecta'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1954,7 +1956,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_protecta'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.152] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:kriss
+[01May2025 22:57:33.683] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:kriss
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:kriss_vector45'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1987,7 +1989,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:kriss_vector45'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.154] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammorifle_1
+[01May2025 22:57:33.686] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammorifle_1
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:300_winchester_magnum_ammo'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -2020,7 +2022,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:300_winchester_mag
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.157] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammorifle_2
+[01May2025 22:57:33.688] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammorifle_2
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:7x92x57mm'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -2053,7 +2055,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:7x92x57mm'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.158] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammorifle_3
+[01May2025 22:57:33.691] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ammorifle_3
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:7x62x54mmr_ammo'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -2086,7 +2088,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:7x62x54mmr_ammo'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.159] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ak_74x
+[01May2025 22:57:33.695] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:ak_74x
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:ak74x'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -2119,7 +2121,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:ak74x'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.165] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:shotgunammoelitex
+[01May2025 22:57:33.700] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:shotgunammoelitex
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:shotgun_bhuckshot_slug'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -2152,7 +2154,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:shotgun_bhuckshot_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.167] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:kar_98k
+[01May2025 22:57:33.702] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:kar_98k
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:kar98k'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -2185,7 +2187,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:kar98k'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.173] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:m_4x_1
+[01May2025 22:57:33.708] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:m_4x_1
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:m4x1'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -2218,7 +2220,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:m4x1'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.174] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:usp
+[01May2025 22:57:33.813] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pointblank_recipes:usp
 com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_usp'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -2251,70 +2253,75 @@ com.google.gson.JsonSyntaxException: Unknown item 'pointblank:s_usp'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Apr2025 00:42:58.364] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[29Apr2025 00:42:58.487] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1294 advancements
-[29Apr2025 00:42:59.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[29Apr2025 00:42:59.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Apr2025 00:42:59.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Apr2025 00:42:59.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Apr2025 00:43:00.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Apr2025 00:43:00.198] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29Apr2025 00:43:00.321] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[29Apr2025 00:43:00.321] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[29Apr2025 00:43:00.325] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[29Apr2025 00:43:00.325] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[29Apr2025 00:43:00.351] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Apr2025 00:43:00.352] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Apr2025 00:43:00.353] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Apr2025 00:43:00.364] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
-[29Apr2025 00:43:00.365] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[29Apr2025 00:43:00.366] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[29Apr2025 00:43:00.552] [Server thread/INFO] [FTB Teams/]: loaded team data: 3 known players, 3 teams total
-[29Apr2025 00:43:00.743] [Server thread/INFO] [Framework/]: Loading server configs...
-[29Apr2025 00:43:00.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29Apr2025 00:43:01.110] [Server thread/INFO] [incontrol/]: Reading rules from areas.json
-[29Apr2025 00:43:01.117] [Server thread/INFO] [incontrol/]: Reading rules from spawn.json
-[29Apr2025 00:43:01.123] [Server thread/INFO] [incontrol/]: Reading rules from summonaid.json
-[29Apr2025 00:43:01.126] [Server thread/INFO] [incontrol/]: Reading rules from loot.json
-[29Apr2025 00:43:01.128] [Server thread/INFO] [incontrol/]: Reading rules from experience.json
-[29Apr2025 00:43:01.130] [Server thread/INFO] [incontrol/]: Reading rules from phases.json
-[29Apr2025 00:43:01.133] [Server thread/INFO] [incontrol/]: Reading rules from effects.json
-[29Apr2025 00:43:01.136] [Server thread/INFO] [incontrol/]: Reading rules from breakevents.json
-[29Apr2025 00:43:01.140] [Server thread/INFO] [incontrol/]: Reading rules from placeevents.json
-[29Apr2025 00:43:01.144] [Server thread/INFO] [incontrol/]: Reading rules from rightclicks.json
-[29Apr2025 00:43:01.149] [Server thread/INFO] [incontrol/]: Reading rules from leftclicks.json
-[29Apr2025 00:43:01.152] [Server thread/INFO] [incontrol/]: Reading rules from spawner.json
-[29Apr2025 00:43:01.156] [Server thread/INFO] [incontrol/]: Reading rules from events.json
-[29Apr2025 00:43:05.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Apr2025 00:43:14.129] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.130] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.131] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.141] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.142] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.143] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.144] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.145] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.146] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.149] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.153] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.156] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.157] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.158] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.158] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.161] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.162] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.164] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.200] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Apr2025 00:43:14.702] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
-[29Apr2025 00:43:15.243] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
-[29Apr2025 00:43:15.290] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10091 ms
-[29Apr2025 00:43:15.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.944s)! For help, type "help"
-[29Apr2025 00:43:15.450] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Apr2025 00:43:16.546] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
-[29Apr2025 00:43:16.551] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[29Apr2025 00:43:16.564] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'restaurants-indicates.gl.at.ply.gg:4343'
-[29Apr2025 00:43:16.565] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[29Apr2025 00:43:16.567] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Couldn't load server icon
+[01May2025 22:57:33.819] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[01May2025 22:57:33.933] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1294 advancements
+[01May2025 22:57:35.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[01May2025 22:57:35.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01May2025 22:57:35.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01May2025 22:57:35.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01May2025 22:57:36.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01May2025 22:57:36.061] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01May2025 22:57:36.214] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01May2025 22:57:36.215] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01May2025 22:57:36.215] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01May2025 22:57:36.215] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01May2025 22:57:36.237] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[01May2025 22:57:36.238] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[01May2025 22:57:36.240] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[01May2025 22:57:36.252] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[01May2025 22:57:36.253] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[01May2025 22:57:36.255] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[01May2025 22:57:36.457] [Server thread/INFO] [FTB Teams/]: loaded team data: 6 known players, 6 teams total
+[01May2025 22:57:36.625] [Server thread/INFO] [Framework/]: Loading server configs...
+[01May2025 22:57:36.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01May2025 22:57:37.117] [Server thread/INFO] [incontrol/]: Reading rules from areas.json
+[01May2025 22:57:37.136] [Server thread/INFO] [incontrol/]: Reading rules from spawn.json
+[01May2025 22:57:37.143] [Server thread/INFO] [incontrol/]: Reading rules from summonaid.json
+[01May2025 22:57:37.161] [Server thread/INFO] [incontrol/]: Reading rules from loot.json
+[01May2025 22:57:37.165] [Server thread/INFO] [incontrol/]: Reading rules from experience.json
+[01May2025 22:57:37.169] [Server thread/INFO] [incontrol/]: Reading rules from phases.json
+[01May2025 22:57:37.173] [Server thread/INFO] [incontrol/]: Reading rules from effects.json
+[01May2025 22:57:37.181] [Server thread/INFO] [incontrol/]: Reading rules from breakevents.json
+[01May2025 22:57:37.183] [Server thread/INFO] [incontrol/]: Reading rules from placeevents.json
+[01May2025 22:57:37.192] [Server thread/INFO] [incontrol/]: Reading rules from rightclicks.json
+[01May2025 22:57:37.197] [Server thread/INFO] [incontrol/]: Reading rules from leftclicks.json
+[01May2025 22:57:37.208] [Server thread/INFO] [incontrol/]: Reading rules from spawner.json
+[01May2025 22:57:37.216] [Server thread/INFO] [incontrol/]: Reading rules from events.json
+[01May2025 22:57:44.463] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01May2025 22:57:47.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01May2025 22:57:48.260] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01May2025 22:57:49.046] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01May2025 22:57:49.746] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01May2025 22:57:51.617] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 22:57:51.641] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 22:57:51.655] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 22:57:51.705] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 22:57:51.714] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 22:57:51.723] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 22:57:51.739] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 22:57:51.750] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 22:57:51.769] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 22:57:51.826] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 22:57:51.846] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01May2025 22:57:52.018] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 22:57:52.788] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 22:57:53.027] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 22:57:53.575] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 22:57:54.015] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 22:57:54.515] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[01May2025 22:57:55.015] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[01May2025 22:57:55.515] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[01May2025 22:57:55.622] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8608 ms
+[01May2025 22:57:55.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.391s)! For help, type "help"
+[01May2025 22:57:55.663] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01May2025 22:57:56.135] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01May2025 22:57:56.343] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01May2025 22:57:56.549] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01May2025 22:57:57.072] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[01May2025 22:57:57.079] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[01May2025 22:57:57.093] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'restaurants-indicates.gl.at.ply.gg:4343'
+[01May2025 22:57:57.094] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[01May2025 22:57:57.107] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Couldn't load server icon
 java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getWidth()" because "bufferedimage" is null
 	at net.minecraft.server.MinecraftServer.m_271593_(MinecraftServer.java:784) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.flatMap(Optional.java:289) ~[?:?]
@@ -2322,147 +2329,72 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:640) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[29Apr2025 00:43:44.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3cm_6sec[/127.33.157.175:38657] logged in with entity id 163 at (-57.664625701287946, 133.0, -73.9836087076925)
-[29Apr2025 00:43:44.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec joined the game
-[29Apr2025 00:43:45.035] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 3cm_6sec (18)
-[29Apr2025 00:43:45.037] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 3cm_6sec
-[29Apr2025 00:43:48.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8df1b7f8-95dd-32e1-a56f-ccb9176001f7
-[29Apr2025 00:43:49.782] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8df1b7f8-95dd-32e1-a56f-ccb9176001f7
-[29Apr2025 00:43:49.791] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3cm_6sec (8df1b7f8-95dd-32e1-a56f-ccb9176001f7) successfully connected to voice chat
-[29Apr2025 00:44:23.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3cm_6sec lost connection: Disconnected
-[29Apr2025 00:44:23.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec left the game
-[29Apr2025 00:44:23.427] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 3cm_6sec
-[29Apr2025 00:44:43.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3cm_6sec[/127.33.157.175:50937] logged in with entity id 369 at (-58.25324342887499, 133.0, -75.22388727355398)
-[29Apr2025 00:44:43.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec joined the game
-[29Apr2025 00:44:43.772] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 3cm_6sec (18)
-[29Apr2025 00:44:43.773] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 3cm_6sec
-[29Apr2025 00:44:44.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 777JXO[/127.123.83.143:42945] logged in with entity id 409 at (-21.5, 90.0, -39.5)
-[29Apr2025 00:44:44.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO joined the game
-[29Apr2025 00:44:44.757] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 777JXO (18)
-[29Apr2025 00:44:44.757] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 777JXO
-[29Apr2025 00:44:46.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8df1b7f8-95dd-32e1-a56f-ccb9176001f7
-[29Apr2025 00:44:47.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8df1b7f8-95dd-32e1-a56f-ccb9176001f7
-[29Apr2025 00:44:47.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3cm_6sec (8df1b7f8-95dd-32e1-a56f-ccb9176001f7) successfully connected to voice chat
-[29Apr2025 00:44:59.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Teleported 777JXO to 3cm_6sec]
-[29Apr2025 00:45:29.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO lost connection: Disconnected
-[29Apr2025 00:45:29.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO left the game
-[29Apr2025 00:45:29.626] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 777JXO
-[29Apr2025 00:46:03.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec fell from a high place
-[29Apr2025 00:46:05.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec was not rescued in time
-[29Apr2025 00:46:30.824] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@544989ca[id=<null>,name=777JXO,properties={},legacy=false] (/127.123.83.143:44743): Took too long to log in
-[29Apr2025 00:46:30.824] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@544989ca[id=<null>,name=777JXO,properties={},legacy=false] (/127.123.83.143:44743) lost connection: Took too long to log in
-[29Apr2025 00:46:30.872] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[29Apr2025 00:47:26.822] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5dc21626[id=<null>,name=777JXO,properties={},legacy=false] (/127.123.83.143:41823) lost connection: Disconnected
-[29Apr2025 00:47:38.576] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 777JXO[/127.123.83.143:34615] logged in with entity id 1008 at (-58.25324342887499, 133.0, -75.22388727355398)
-[29Apr2025 00:47:38.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO joined the game
-[29Apr2025 00:47:38.977] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 777JXO (18)
-[29Apr2025 00:47:38.980] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 777JXO
-[29Apr2025 00:47:59.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
-[29Apr2025 00:48:25.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO lost connection: Timed out
-[29Apr2025 00:48:25.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO left the game
-[29Apr2025 00:48:25.824] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 777JXO
-[29Apr2025 00:48:35.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made 777JXO a server operator
-[29Apr2025 00:49:13.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3cm_6sec lost connection: Disconnected
-[29Apr2025 00:49:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec left the game
-[29Apr2025 00:49:13.924] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 3cm_6sec
-[29Apr2025 00:50:01.764] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68ab51f[id=<null>,name=777JXO,properties={},legacy=false] (/127.123.83.143:45617) lost connection: Disconnected
-[29Apr2025 00:50:49.114] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5c078b0d[id=<null>,name=777JXO,properties={},legacy=false] (/127.123.83.143:43813): Took too long to log in
-[29Apr2025 00:50:49.114] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c078b0d[id=<null>,name=777JXO,properties={},legacy=false] (/127.123.83.143:43813) lost connection: Took too long to log in
-[29Apr2025 00:50:49.163] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[29Apr2025 00:51:31.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 777JXO[/127.123.83.143:60823] logged in with entity id 1231 at (-58.25324342887499, 133.0, -75.22388727355398)
-[29Apr2025 00:51:31.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO joined the game
-[29Apr2025 00:51:32.319] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 777JXO (18)
-[29Apr2025 00:51:32.320] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 777JXO
-[29Apr2025 00:51:37.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3cm_6sec[/127.33.157.175:54293] logged in with entity id 1409 at (-59.1069487051898, 129.53144837508452, -64.0540949410063)
-[29Apr2025 00:51:37.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec joined the game
-[29Apr2025 00:51:38.723] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 3cm_6sec (18)
-[29Apr2025 00:51:38.723] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 3cm_6sec
-[29Apr2025 00:51:47.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8df1b7f8-95dd-32e1-a56f-ccb9176001f7
-[29Apr2025 00:51:48.724] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8df1b7f8-95dd-32e1-a56f-ccb9176001f7
-[29Apr2025 00:51:48.724] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3cm_6sec (8df1b7f8-95dd-32e1-a56f-ccb9176001f7) successfully connected to voice chat
-[29Apr2025 00:52:31.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO lost connection: Disconnected
-[29Apr2025 00:52:31.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO left the game
-[29Apr2025 00:52:31.990] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 777JXO
-[29Apr2025 00:56:10.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Spectator Mode]
-[29Apr2025 00:56:45.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
-[29Apr2025 00:57:01.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 777JXO[/127.123.83.143:60775] logged in with entity id 5689 at (-58.25324342887499, 133.0, -75.22388727355398)
-[29Apr2025 00:57:01.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO joined the game
-[29Apr2025 00:57:02.194] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 777JXO (18)
-[29Apr2025 00:57:02.196] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 777JXO
-[29Apr2025 00:57:04.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
-[29Apr2025 00:57:05.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
-[29Apr2025 00:57:05.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 777JXO (a250bb28-4d7d-3a8d-beb1-f9f37837ac0b) successfully connected to voice chat
-[29Apr2025 00:57:10.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
-[29Apr2025 00:57:27.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [777JXO: Set own game mode to Creative Mode]
-[29Apr2025 00:57:30.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO lost connection: Disconnected
-[29Apr2025 00:57:30.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO left the game
-[29Apr2025 00:57:30.773] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 777JXO
-[29Apr2025 00:58:34.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 777JXO[/127.123.83.143:33897] logged in with entity id 5927 at (-56.32580861595682, 132.0, -73.06726974762503)
-[29Apr2025 00:58:34.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO joined the game
-[29Apr2025 00:58:35.485] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 777JXO (18)
-[29Apr2025 00:58:35.485] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 777JXO
-[29Apr2025 00:58:38.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
-[29Apr2025 00:58:39.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
-[29Apr2025 00:58:39.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 777JXO (a250bb28-4d7d-3a8d-beb1-f9f37837ac0b) successfully connected to voice chat
-[29Apr2025 00:58:45.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO lost connection: Disconnected
-[29Apr2025 00:58:45.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO left the game
-[29Apr2025 00:58:45.422] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 777JXO
-[29Apr2025 00:59:23.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 21 [Bread] to 3cm_6sec]
-[29Apr2025 01:00:05.421] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c79bfd5[id=<null>,name=777JXO,properties={},legacy=false] (/127.123.83.143:52285) lost connection: Disconnected
-[29Apr2025 01:00:09.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 777JXO[/127.123.83.143:36015] logged in with entity id 6219 at (-59.088032495597936, 133.0, -74.71077090185979)
-[29Apr2025 01:00:09.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO joined the game
-[29Apr2025 01:00:09.762] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 777JXO (18)
-[29Apr2025 01:00:09.762] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 777JXO
-[29Apr2025 01:00:11.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
-[29Apr2025 01:00:12.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
-[29Apr2025 01:00:12.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 777JXO (a250bb28-4d7d-3a8d-beb1-f9f37837ac0b) successfully connected to voice chat
-[29Apr2025 01:00:17.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set 777JXO's game mode to Survival Mode]
-[29Apr2025 01:00:32.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[29Apr2025 01:00:32.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unop 777JXO<--[HERE]
-[29Apr2025 01:06:21.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO has made the advancement [Sweet Dreams]
-[29Apr2025 01:07:03.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
-[29Apr2025 01:07:12.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by 3cm_6sec
-[29Apr2025 01:07:18.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by 3cm_6sec
-[29Apr2025 01:07:21.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
-[29Apr2025 01:08:34.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 1 [Vector] to 3cm_6sec]
-[29Apr2025 01:09:13.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
-[29Apr2025 01:09:15.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec was slain by 777JXO
-[29Apr2025 01:09:19.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3cm_6sec was kicked for floating too long!
-[29Apr2025 01:09:19.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3cm_6sec lost connection: Flying is not enabled on this server
-[29Apr2025 01:09:19.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec left the game
-[29Apr2025 01:09:19.322] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 3cm_6sec
-[29Apr2025 01:09:30.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3cm_6sec[/127.33.157.175:34535] logged in with entity id 7085 at (-59.09937180251393, 133.02612726902174, -71.05169193068389)
-[29Apr2025 01:09:30.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec joined the game
-[29Apr2025 01:09:30.401] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 3cm_6sec (18)
-[29Apr2025 01:09:30.402] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 3cm_6sec
-[29Apr2025 01:09:37.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8df1b7f8-95dd-32e1-a56f-ccb9176001f7
-[29Apr2025 01:09:38.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8df1b7f8-95dd-32e1-a56f-ccb9176001f7
-[29Apr2025 01:09:38.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3cm_6sec (8df1b7f8-95dd-32e1-a56f-ccb9176001f7) successfully connected to voice chat
-[29Apr2025 01:09:44.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec was not rescued in time
-[29Apr2025 01:10:21.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by 3cm_6sec
-[29Apr2025 01:10:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
-[29Apr2025 01:10:28.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
-[29Apr2025 01:10:42.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO died
-[29Apr2025 01:10:57.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO died
-[29Apr2025 01:11:02.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
-[29Apr2025 01:11:11.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
-[29Apr2025 01:11:24.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
-[29Apr2025 01:11:28.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by 3cm_6sec
-[29Apr2025 01:11:44.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
-[29Apr2025 01:11:50.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
-[29Apr2025 01:11:53.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
-[29Apr2025 01:12:01.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [777JXO: Set own game mode to Creative Mode]
-[29Apr2025 01:12:07.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-64, y=125, z=-75} BlockPos{x=-67, y=96, z=-77}
-[29Apr2025 01:12:08.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-64, y=125, z=-75} BlockPos{x=-67, y=95, z=-77}
-[29Apr2025 01:12:10.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO lost connection: Timed out
-[29Apr2025 01:12:10.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO left the game
-[29Apr2025 01:12:10.271] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 777JXO
-[29Apr2025 01:12:13.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
-[29Apr2025 01:12:22.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
-[29Apr2025 01:12:23.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 777JXO[/127.123.83.143:47471] logged in with entity id 7589 at (-67.068295137986, 96.0, -76.88158700306116)
-[29Apr2025 01:12:23.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO joined the game
-[29Apr2025 01:12:23.611] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 777JXO (18)
-[29Apr2025 01:12:23.612] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 777JXO
-[29Apr2025 01:12:37.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO lost connection: Disconnected
-[29Apr2025 01:12:37.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO left the game
-[29Apr2025 01:12:37.072] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 777JXO
+[01May2025 22:58:15.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3cm_6sec[/127.162.52.241:48183] logged in with entity id 219 at (-40.47736327397802, 78.0, -24.394878152184003)
+[01May2025 22:58:15.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec joined the game
+[01May2025 22:58:17.824] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 3cm_6sec (18)
+[01May2025 22:58:17.827] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 3cm_6sec
+[01May2025 22:58:23.725] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8df1b7f8-95dd-32e1-a56f-ccb9176001f7
+[01May2025 22:58:24.720] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8df1b7f8-95dd-32e1-a56f-ccb9176001f7
+[01May2025 22:58:24.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3cm_6sec (8df1b7f8-95dd-32e1-a56f-ccb9176001f7) successfully connected to voice chat
+[01May2025 22:58:47.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 323 [Gunpowder] to 3cm_6sec]
+[01May2025 22:59:04.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 777JXO[/127.123.83.143:50143] logged in with entity id 356 at (-67.068295137986, 96.0, -76.88158700306116)
+[01May2025 22:59:04.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO joined the game
+[01May2025 22:59:05.567] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 777JXO (18)
+[01May2025 22:59:05.567] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 777JXO
+[01May2025 22:59:08.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
+[01May2025 22:59:09.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
+[01May2025 22:59:09.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 777JXO (a250bb28-4d7d-3a8d-beb1-f9f37837ac0b) successfully connected to voice chat
+[01May2025 22:59:19.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 1 [Lava Bucket] to 3cm_6sec]
+[01May2025 22:59:20.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO lost connection: Disconnected
+[01May2025 22:59:20.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO left the game
+[01May2025 22:59:20.417] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 777JXO
+[01May2025 23:00:00.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 1 [Lava Bucket] to 3cm_6sec]
+[01May2025 23:00:01.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Martin[/127.28.158.19:53533] logged in with entity id 501 at (-40.31961616760786, 82.64227964167588, -22.48750001192093)
+[01May2025 23:00:01.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin joined the game
+[01May2025 23:00:01.727] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Martin (18)
+[01May2025 23:00:01.728] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Martin
+[01May2025 23:00:04.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 777JXO[/127.123.83.143:59263] logged in with entity id 509 at (-77.34595152436266, 96.0, -76.4173314549705)
+[01May2025 23:00:04.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO joined the game
+[01May2025 23:00:05.619] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 777JXO (18)
+[01May2025 23:00:05.621] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 777JXO
+[01May2025 23:00:07.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
+[01May2025 23:00:08.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
+[01May2025 23:00:08.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 777JXO (a250bb28-4d7d-3a8d-beb1-f9f37837ac0b) successfully connected to voice chat
+[01May2025 23:00:10.181] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9d15c4fa-447a-3b79-8e19-04de8e88b931
+[01May2025 23:00:11.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9d15c4fa-447a-3b79-8e19-04de8e88b931
+[01May2025 23:00:11.606] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Martin (9d15c4fa-447a-3b79-8e19-04de8e88b931) successfully connected to voice chat
+[01May2025 23:00:15.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 777JXO lost connection: Disconnected
+[01May2025 23:00:15.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO left the game
+[01May2025 23:00:15.962] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 777JXO
+[01May2025 23:00:18.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Teleported 2 entities to 3cm_6sec]
+[01May2025 23:00:32.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 1 [Block of Iron] to 3cm_6sec]
+[01May2025 23:00:57.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 777JXO[/127.123.83.143:38127] logged in with entity id 658 at (-76.34677578821832, 96.0, -76.79239958726598)
+[01May2025 23:00:57.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO joined the game
+[01May2025 23:00:58.213] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 777JXO (18)
+[01May2025 23:00:58.214] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 777JXO
+[01May2025 23:00:59.823] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
+[01May2025 23:01:00.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a250bb28-4d7d-3a8d-beb1-f9f37837ac0b
+[01May2025 23:01:00.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 777JXO (a250bb28-4d7d-3a8d-beb1-f9f37837ac0b) successfully connected to voice chat
+[01May2025 23:01:04.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec was slain by Martin
+[01May2025 23:01:07.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec was not rescued in time
+[01May2025 23:01:19.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Martin lost connection: Disconnected
+[01May2025 23:01:19.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin left the game
+[01May2025 23:01:19.814] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Martin
+[01May2025 23:01:21.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set 777JXO's game mode to Survival Mode]
+[01May2025 23:01:58.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 12 [Block of Raw Iron] to 3cm_6sec]
+[01May2025 23:02:15.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 1 [Lava Bucket] to 3cm_6sec]
+[01May2025 23:02:37.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO has made the advancement [Monster Hunter]
+[01May2025 23:02:44.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Teleported 777JXO to 3cm_6sec]
+[01May2025 23:02:54.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 1 [Lava Bucket] to 3cm_6sec]
+[01May2025 23:04:42.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 1 [Lava Bucket] to 3cm_6sec]
+[01May2025 23:05:15.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 9 [Lava Bucket] to 3cm_6sec]
+[01May2025 23:05:49.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO has made the advancement [Acquire Hardware]
+[01May2025 23:06:07.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO died
+[01May2025 23:06:14.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Martin[/127.28.158.19:52537] logged in with entity id 1360 at (-41.22533042627476, 78.0, -24.69999998807907)
+[01May2025 23:06:14.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin joined the game
+[01May2025 23:06:15.379] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Martin (18)
+[01May2025 23:06:15.380] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Martin
+[01May2025 23:06:18.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
+[01May2025 23:06:21.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9d15c4fa-447a-3b79-8e19-04de8e88b931
+[01May2025 23:06:22.555] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9d15c4fa-447a-3b79-8e19-04de8e88b931
+[01May2025 23:06:22.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Martin (9d15c4fa-447a-3b79-8e19-04de8e88b931) successfully connected to voice chat
