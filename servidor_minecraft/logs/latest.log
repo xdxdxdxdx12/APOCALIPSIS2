@@ -2485,3 +2485,8 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01May2025 23:47:33.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Martin> hdp encpntre algo como un metro
 [01May2025 23:47:37.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <3cm_6sec> smn
 [01May2025 23:47:39.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <3cm_6sec> si hay
+[01May2025 23:47:49.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <3cm_6sec> busca estalaktitas
+[01May2025 23:48:00.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Martin> pero a estado tosa la poblacion de lima
+[01May2025 23:54:15.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Spectator Mode]
+[01May2025 23:54:56.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Teleported 3cm_6sec to Martin]
+[01May2025 23:54:58.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]

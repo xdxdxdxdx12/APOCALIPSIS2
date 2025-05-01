@@ -8404,3 +8404,21 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01May2025 23:47:33.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Martin> hdp encpntre algo como un metro
 [01May2025 23:47:37.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <3cm_6sec> smn
 [01May2025 23:47:39.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <3cm_6sec> si hay
+[01May2025 23:47:49.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <3cm_6sec> busca estalaktitas
+[01May2025 23:47:57.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save APOCALIPSIS
+[01May2025 23:47:57.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete APOCALIPSIS
+[01May2025 23:48:00.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Martin> pero a estado tosa la poblacion de lima
+[01May2025 23:48:12.657] [Server thread/DEBUG] [pointblank/]: 92657 handling client fire request
+[01May2025 23:48:12.657] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 72973528 to 0
+[01May2025 23:48:12.657] [Server thread/DEBUG] [pointblank/]: 92657 - obtained hit result in 0ms
+[01May2025 23:48:12.657] [Server thread/DEBUG] [pointblank/]: 92657 obtained hit results
+[01May2025 23:48:12.657] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@33b14081
+[01May2025 23:48:12.657] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Martin'/4477, l='ServerLevel[APOCALIPSIS]', x=-56.35, y=66.00, z=-128.31] sends hit scan notification to ServerPlayer['3cm_6sec'/219, l='ServerLevel[APOCALIPSIS]', x=-39.79, y=95.00, z=-66.24]
+[01May2025 23:48:12.657] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Martin'/4477, l='ServerLevel[APOCALIPSIS]', x=-56.35, y=66.00, z=-128.31] sends hit scan notification to ServerPlayer['Martin'/4477, l='ServerLevel[APOCALIPSIS]', x=-56.35, y=66.00, z=-128.31]
+[01May2025 23:52:57.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save APOCALIPSIS
+[01May2025 23:52:57.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete APOCALIPSIS
+[01May2025 23:54:15.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Spectator Mode]
+[01May2025 23:54:56.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Teleported 3cm_6sec to Martin]
+[01May2025 23:54:58.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
+[01May2025 23:57:57.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save APOCALIPSIS
+[01May2025 23:57:57.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete APOCALIPSIS
