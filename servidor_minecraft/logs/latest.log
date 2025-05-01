@@ -2398,3 +2398,28 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01May2025 23:06:21.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9d15c4fa-447a-3b79-8e19-04de8e88b931
 [01May2025 23:06:22.555] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9d15c4fa-447a-3b79-8e19-04de8e88b931
 [01May2025 23:06:22.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Martin (9d15c4fa-447a-3b79-8e19-04de8e88b931) successfully connected to voice chat
+[01May2025 23:07:11.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set Martin's game mode to Survival Mode]
+[01May2025 23:07:37.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin was slain by Zombie
+[01May2025 23:07:40.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin was not rescued in time
+[01May2025 23:08:00.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin died
+[01May2025 23:08:03.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin was not rescued in time
+[01May2025 23:08:18.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin died because of Zombie
+[01May2025 23:08:21.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin was not rescued in time
+[01May2025 23:09:12.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by Zombie
+[01May2025 23:09:16.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
+[01May2025 23:09:48.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Removed every effect from 3cm_6sec]
+[01May2025 23:10:38.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 32 [Bread] to 3cm_6sec]
+[01May2025 23:11:29.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
+[01May2025 23:11:44.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Teleported 3 entities to 3cm_6sec]
+[01May2025 23:11:57.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
+[01May2025 23:14:10.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by 3cm_6sec
+[01May2025 23:14:16.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by 3cm_6sec
+[01May2025 23:14:25.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by 3cm_6sec
+[01May2025 23:14:36.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO died
+[01May2025 23:15:31.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin was slain by 3cm_6sec
+[01May2025 23:15:33.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin was not rescued in time
+[01May2025 23:15:49.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by 3cm_6sec
+[01May2025 23:16:41.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by 3cm_6sec
+[01May2025 23:16:44.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
+[01May2025 23:17:04.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 12 [Block of Raw Iron] to 3cm_6sec]
+[01May2025 23:17:13.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 1 [Block of Iron] to 3cm_6sec]
