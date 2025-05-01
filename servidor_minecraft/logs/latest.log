@@ -2451,3 +2451,22 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01May2025 23:25:55.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 777JXO (a250bb28-4d7d-3a8d-beb1-f9f37837ac0b) successfully connected to voice chat
 [01May2025 23:26:02.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
 [01May2025 23:27:26.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin has made the advancement [Isn't It Iron Pick]
+[01May2025 23:27:57.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by 3cm_6sec
+[01May2025 23:28:00.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
+[01May2025 23:29:59.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin died because of Zombie
+[01May2025 23:30:14.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin died because of 3cm_6sec
+[01May2025 23:30:18.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin died
+[01May2025 23:30:21.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin died
+[01May2025 23:30:24.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin died
+[01May2025 23:31:19.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was slain by Zombie
+[01May2025 23:31:27.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
+[01May2025 23:33:14.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO died
+[01May2025 23:33:22.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO died
+[01May2025 23:33:28.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO died
+[01May2025 23:33:36.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
+[01May2025 23:34:16.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3cm_6sec has made the advancement [Stone Age]
+[01May2025 23:34:25.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO has made the advancement [Stone Age]
+[01May2025 23:34:34.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Gave 1 [Block of Iron] to 3cm_6sec]
+[01May2025 23:35:40.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin has made the advancement [Stone Age]
+[01May2025 23:36:13.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO died
+[01May2025 23:36:23.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 777JXO was not rescued in time
