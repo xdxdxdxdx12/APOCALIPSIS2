@@ -8422,3 +8422,18 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01May2025 23:54:58.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
 [01May2025 23:57:57.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save APOCALIPSIS
 [01May2025 23:57:57.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete APOCALIPSIS
+[01May2025 23:59:39.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Spectator Mode]
+[01May2025 23:59:50.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Martin lost connection: Disconnected
+[01May2025 23:59:50.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Martin left the game
+[01May2025 23:59:50.308] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Martin
+[01May2025 23:59:50.308] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Martin
+[01May2025 23:59:51.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
+[02May2025 00:01:26.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Spectator Mode]
+[02May2025 00:01:32.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
+[02May2025 00:02:57.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save APOCALIPSIS
+[02May2025 00:02:57.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete APOCALIPSIS
+[02May2025 00:03:07.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Spectator Mode]
+[02May2025 00:03:10.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Survival Mode]
+[02May2025 00:07:56.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [3cm_6sec: Set own game mode to Creative Mode]
+[02May2025 00:07:57.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save APOCALIPSIS
+[02May2025 00:07:57.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete APOCALIPSIS
